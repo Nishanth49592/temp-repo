@@ -1,0 +1,5 @@
+const namelist=require('./variable.js')
+const consoling=require('./function.js')
+consoling(namelist.name_1)
+consoling(namelist.name_2)
+consoling(namelist.name_3)
