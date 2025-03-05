@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Nishanth49592/temp-repo/issues"
   },
-  "homepage": "https://github.com/Nishanth49592/temp-repo#readme"
+  "homepage": "https://github.com/Nishanth49592/temp-repo#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
