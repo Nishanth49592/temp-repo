@@ -1,10 +1,8 @@
 {
   "name": "node-js-tutorial",
   "version": "1.0.0",
-  "description":"Node.js tutorial project"
-,
-  "main": "node one.js",
-  "devDependencies": {},
+  "description": "Node.js tutorial project",
+  "main": "one.js",
   "scripts": {
     "start": "node one.js"
   },
