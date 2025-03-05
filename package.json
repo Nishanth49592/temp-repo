@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Nishanth49592/temp-repo#readme",
   "dependencies": {
+    "bootstrap": "^5.3.3",
     "lodash": "^4.17.21"
   }
 }
