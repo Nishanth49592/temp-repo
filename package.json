@@ -1,15 +1,21 @@
 {
-  "name": "js-tutorial",
+  "name": "node-js-tutorial",
   "version": "1.0.0",
-  "main": "npm init",
+  "description": "��#\u0000 \u0000t\u0000e\u0000m\u0000p\u0000-\u0000r\u0000e\u0000p\u0000o\u0000\r\u0000 \u0000#\u0000 \u0000t\u0000e\u0000m\u0000p\u0000-\u0000r\u0000e\u0000p\u0000o\u0000\r\u0000 \u0000",
+  "main": "console.js",
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nishanth49592/temp-repo.git"
+  },
+  "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
-  "dependencies": {
-    "bootstrap": "^5.3.3",
-    "lodash": "^4.17.21"
-  }
+  "bugs": {
+    "url": "https://github.com/Nishanth49592/temp-repo/issues"
+  },
+  "homepage": "https://github.com/Nishanth49592/temp-repo#readme"
 }
