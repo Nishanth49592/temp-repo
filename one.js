@@ -20,6 +20,7 @@ readFile("./newfolder/one.txt", "utf-8", (err, result) => {
             return;
         }
         console.log("File written successfully!");
+        console.log("perfect");
     });
     });
 });
