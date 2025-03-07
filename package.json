@@ -4,7 +4,8 @@
   "description": "A simple Node.js tutorial project",
   "main": "console.js",
   "scripts": {
-    "start": "node one.js"
+    "start": "node one.js",
+    "dev":"nodempn app.js"
   },
   "repository": {
     "type": "git",
