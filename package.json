@@ -1,11 +1,11 @@
 {
-  "name": "node-js-tutorial",
+  "name": "js-tutorial",
   "version": "1.0.0",
   "description": "A simple Node.js tutorial project",
   "main": "console.js",
   "scripts": {
-    "start":"node one.js",
-    "dev":"nodemon one.js"
+    "start": "node lodash-tutorial.js",
+    "dev": "nodemon lodash-tutorial.js"
   },
   "repository": {
     "type": "git",
