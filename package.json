@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "A simple Node.js tutorial project",
   "main": "console.js",
-  "devDependencies": {},
   "scripts": {
     "start": "node one.js"
   },

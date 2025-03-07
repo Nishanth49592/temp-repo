@@ -7,4 +7,6 @@ const server = http.createServer((req, res) => {
 });
 
 // Start the server and listen on port 3000
-server.listen(2000);
+server.listen(2000,()=>{
+    console.log("welcome");
+});
