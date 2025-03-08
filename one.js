@@ -10,7 +10,7 @@ readFile("./newfolder/one.txt", "utf-8", (err, result) => {
     
     readFile("./newfolder/sub-folder/two.txt", "utf-8", (err, result) => {
         if (err) {
-            console.log("Error reading file:", err);
+            console.log("Error reading file:", err);        
             return;
         }
         const second = result;
